@@ -1,0 +1,45 @@
+16:48:57 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee found by id: 2
+16:56:03 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee found by id: 7
+16:56:52 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee mnb has been added
+12:19:59 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 10
+12:22:25 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 9
+12:29:48 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 9
+12:35:23 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 9
+15:09:16 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 9
+15:41:02 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 9
+15:44:13 [default-nioEventLoopGroup-1-3] INFO  com.example.controller.EmployeeController - Employee deleted by id: 4
+14:35:44 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+14:35:44 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+14:35:44 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+14:35:44 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:35:44 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:42:34 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+14:42:35 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+14:42:35 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+14:42:35 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:42:35 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:46:07 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+14:46:08 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+14:46:08 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+14:46:08 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:46:08 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:48:20 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+14:48:20 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+14:48:20 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+14:48:20 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+14:48:20 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+17:29:34 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+17:29:35 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+17:29:35 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+17:29:35 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+17:29:35 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+17:35:17 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+17:35:17 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+17:35:17 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+17:35:17 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+17:35:17 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+10:48:11 [main] INFO  com.example.controller.EmployeeController - Employee deleted by id: 1
+10:48:11 [main] INFO  com.example.controller.EmployeeController - Employee joe has been added
+10:48:11 [main] INFO  com.example.controller.EmployeeController - Employee updated by id: 1  Updated details : Employee{id=1, name='joe', salary=4000.0, email='joe@gmail.com', department='java'}
+10:48:11 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
+10:48:11 [main] INFO  com.example.controller.EmployeeController - Employee found by id: 1
